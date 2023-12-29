@@ -18,7 +18,7 @@ sender: token = token {
     _nonce: 2612958423151420990276449219634724554777866167451847056937475540543319013626group,
 };
 receiver: address = aleo1apypec6t0cs4rv0qlvly787mcqpspx82dawzlqlquavdtjxl6cpqmp75jh;
-amount: u64 = 10u64;
+amount: u64 = 30u64;
 
 [transfer_private_to_public]
 sender: token = token {
